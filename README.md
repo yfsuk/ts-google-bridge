@@ -8,8 +8,8 @@ TS Google Bridge 是一个纯技术性桥接工具，专为运行在 TS 虚拟�
 
 ## 访问地址
 
-- 首页：[TS Google Bridge](https://你的用户名.github.io/ts-google-bridge/)
-- 隐私政策：[隐私政策](https://你的用户名.github.io/ts-google-bridge/privacy.html)
+- 首页：[TS Google Bridge](https://yfsuk.github.io/ts-google-bridge/)
+- 隐私政策：[隐私政策](https://yfsuk.github.io/ts-google-bridge/privacy.html)
 
 ## 联系方式
 
